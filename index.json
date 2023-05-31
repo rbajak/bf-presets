@@ -523,8 +523,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/HDZero.txt",
-      "hash": "2a0dc6edcdf7149c642a203ff9b35e53398abc567d3536736860158def1c1bf6",
-      "title": "Default 4.4 OSD settings",
+      "hash": "d402b7669840e1597cb0715e392071576b225f2996d867a88fcff26ba9ad7b41",
+      "title": "Rafb HDZero",
       "firmware_version": [
         "4.4"
       ],
