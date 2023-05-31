@@ -401,6 +401,7 @@
       "Race250",
       "Race500",
       "racing",
+      "rafb",
       "rates",
       "rc",
       "rc link",
@@ -523,16 +524,15 @@
     },
     {
       "fullPath": "presets/4.4/osd/HDZero.txt",
-      "hash": "d402b7669840e1597cb0715e392071576b225f2996d867a88fcff26ba9ad7b41",
+      "hash": "b5f5800bea002b8d5c424e574da9b355f7c2e581fb1f45be0bb8fa02840d42e5",
       "title": "Rafb HDZero",
       "firmware_version": [
         "4.4"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
-        "defaults",
-        "reset",
+        "rafb",
         "OSD"
       ],
       "author": "rafb",

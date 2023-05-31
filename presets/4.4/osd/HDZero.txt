@@ -1,10 +1,10 @@
 #$ TITLE: Rafb HDZero
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
-#$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: rafb, OSD
 #$ AUTHOR: rafb
-#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
+#$ DESCRIPTION: Set my preferred OSD setup for HDZero
 
 set osd_units = METRIC
 set osd_warn_bitmask = 8191
