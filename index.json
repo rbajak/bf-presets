@@ -179,6 +179,7 @@
       "MrAlucardDante",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
+      "rafb",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
       "Sugar K",
@@ -522,7 +523,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/HDZero.txt",
-      "hash": "e585194224f4c6a3e715eabbf4629111d9aa36c0beacbeaa309cd2e03b827bf8",
+      "hash": "2a0dc6edcdf7149c642a203ff9b35e53398abc567d3536736860158def1c1bf6",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
@@ -534,7 +535,7 @@
         "reset",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "rafb",
       "priority": 0
     },
     {

@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, OSD
-#$ AUTHOR: Betaflight
+#$ AUTHOR: rafb
 #$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
 
 set osd_units = METRIC
